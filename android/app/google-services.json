@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "68170949046",
+    "firebase_url": "https://academynub-8ff58.firebaseio.com",
+    "project_id": "academynub-8ff58",
+    "storage_bucket": "academynub-8ff58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68170949046:android:882c3a4d3d98eb9b46a117",
+        "android_client_info": {
+          "package_name": "br.fabwork.com.nubank_academy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68170949046-919743d2it7fi03couj42vk3k9mf0kme.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR6hnVL8Ah6yiyMFxcaEC-6KxYv6e-xmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68170949046-919743d2it7fi03couj42vk3k9mf0kme.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
